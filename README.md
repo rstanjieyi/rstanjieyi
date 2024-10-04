@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jieyi Tan (谭杰议), I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), pursuing a B.E. degree in Remote Sensing Science and Technology. 
+My name is Jieyi Tan, I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), pursuing a B.E. degree in Remote Sensing Science and Technology. 
 <!--
 **RStanjieyi/rstanjieyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
