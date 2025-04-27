@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jieyi Tan, I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), pursuing a B.E. degree in Remote Sensing Science and Technology. My research interests focus on Multi-modal Remote Sensing Foundation Model and its applications in Geoscience :earth_asia: and Human Health :heart:.
+My name is Jieyi Tan, I’m currently an undergraduate student at the [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), pursuing a B.E. degree in Remote Sensing Science and Technology. My research interests focus on Foundation Models and their applications in Geoscience :earth_asia: and Human Health :heart:.
 
 Page: https://rstanjieyi.github.io/
 <!--
